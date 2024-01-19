@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "758d7c04-7cf7-4e6c-8320-b7df3df6bec3": {
+      "ProjectGuid": "758d7c04-7cf7-4e6c-8320-b7df3df6bec3",
+      "DisplayName": "HTMLEncode",
+      "ColorIndex": 0
+    },
+    "e27c3d27-686e-4e3e-be6a-44ccd850d2a2": {
+      "ProjectGuid": "e27c3d27-686e-4e3e-be6a-44ccd850d2a2",
+      "DisplayName": "HTMLEncode_tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

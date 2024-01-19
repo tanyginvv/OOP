@@ -1,0 +1,10 @@
+﻿  multimatrix.cpp
+  multimatrix.vcxproj -> C:\Users\79027\Desktop\ooplabs\multimatrix\x64\Debug\multimatrix.exe
+  Running tests
+  Сравнение файлов C:\USERS\79027\APPDATA\LOCAL\TEMP\out.txt и OUT1.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов C:\USERS\79027\APPDATA\LOCAL\TEMP\out.txt и OUT2.TXT
+  FC: различия не найдены
+  
+  All tests passed

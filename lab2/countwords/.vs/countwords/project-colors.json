@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fa77261-02d2-44cb-80e7-a986577ebe7c": {
+      "ProjectGuid": "7fa77261-02d2-44cb-80e7-a986577ebe7c",
+      "DisplayName": "countwords",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

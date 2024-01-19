@@ -1,0 +1,25 @@
+﻿  replace.cpp
+  replace.vcxproj -> C:\Users\79027\Desktop\ooplabs\replace\x64\Debug\replace.exe
+  Running Tests
+  something good test
+  Сравнение файлов out1.txt и TEST_OUT1.TXT
+  FC: различия не найдены
+  
+  substring
+  Сравнение файлов complex_substring_output.txt и COMPLEX_SUBSTRING_OUTPUT_TEST-OUT.TXT
+  FC: различия не найдены
+  
+  invalid parametrs
+  Usage: replace.exe <input file> <output file> <search string> <replace string>
+  Сравнение файлов invalid_parametrs_out.txt и INVALID_PARAMETRS_OUT-TEST.TXT
+  FC: различия не найдены
+  
+  empty line
+  Сравнение файлов empty_line_output.txt и EMPTY_LINE_TEST-OUT.TXT
+  FC: различия не найдены
+  
+  big data
+  Сравнение файлов big_data_out.txt и BIG_DATA_TEST_OUT.TXT
+  FC: различия не найдены
+  
+  All tests passed

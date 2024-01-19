@@ -1,0 +1,19 @@
+﻿  vectorstlfunc.cpp
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl\vectorstlfunc.cpp(13,20): warning C4244: инициализация: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\numeric(34,27): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl\vectorstlfunc.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,double,ProcessVector::<lambda_0ac43eb37a9d10c40f572de2eaf47cfc>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,
+              _Fn=ProcessVector::<lambda_0ac43eb37a9d10c40f572de2eaf47cfc>
+          ]
+  vectorstl.vcxproj -> C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\x64\Debug\vectorstl.exe

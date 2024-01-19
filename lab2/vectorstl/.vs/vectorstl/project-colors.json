@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "8fef388c-7178-4ebc-b15f-7a1c09a7de1d": {
+      "ProjectGuid": "8fef388c-7178-4ebc-b15f-7a1c09a7de1d",
+      "DisplayName": "vectorstl",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "99910711-6efd-467e-9299-392242a8eb6a": {
+      "ProjectGuid": "99910711-6efd-467e-9299-392242a8eb6a",
+      "DisplayName": "vectorstl_tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,42 @@
+﻿  vectorstlfunc.cpp
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl\vectorstlfunc.cpp(13,20): warning C4244: инициализация: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.30.30705\include\numeric(34,27): warning C4244: аргумент: преобразование "_Ty" в "float", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl\vectorstlfunc.cpp(15): message : выполняется компиляция ссылки на экземпляр шаблон функции "_Ty std::accumulate<std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,double,ProcessVector::<lambda_7e8398d38a4613bee5191f60aee192ac>>(const _InIt,const _InIt,_Ty,_Fn)"
+          with
+          [
+              _Ty=double,
+              _InIt=std::_Vector_iterator<std::_Vector_val<std::_Simple_types<float>>>,
+              _Fn=ProcessVector::<lambda_7e8398d38a4613bee5191f60aee192ac>
+          ]
+  vectorstl_tests.cpp
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl_tests\vectorstl_tests.cpp(46,78): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl_tests\vectorstl_tests.cpp(47,83): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\vectorstl_tests\vectorstl_tests.cpp(48,82): warning C4305: инициализация: усечение из "double" в "_Ty"
+          with
+          [
+              _Ty=float
+          ]
+  Создание кода...
+  vectorstl_tests.vcxproj -> C:\Users\79027\Desktop\ooplabs\lab2\vectorstl\x64\Debug\vectorstl_tests.exe
+  
+  -5 10 
+  -37.36 -35.36 -33.86 -31.33 2 10 13.56 26.1 
+  ===============================================================================
+  All tests passed (6 assertions in 3 test cases)
+  

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "51a472e7-f208-4afc-89c7-4cef015b0a0b": {
+      "ProjectGuid": "51a472e7-f208-4afc-89c7-4cef015b0a0b",
+      "DisplayName": "filter",
+      "ColorIndex": 0
+    },
+    "a60c642a-f4d0-49f2-8b5f-dc79b16039c8": {
+      "ProjectGuid": "a60c642a-f4d0-49f2-8b5f-dc79b16039c8",
+      "DisplayName": "filter_tests",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

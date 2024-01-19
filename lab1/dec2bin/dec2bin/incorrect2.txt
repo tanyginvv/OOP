@@ -1,0 +1,1 @@
+Warning:program can have only one arguement - number in decimal system.

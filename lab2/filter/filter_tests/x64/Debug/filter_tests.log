@@ -1,0 +1,3 @@
+﻿  filter_tests.cpp
+C:\Users\79027\Desktop\ooplabs\lab2\filter\filter_tests\filter_tests.cpp(9,2): error C2664: "void FilterInput(std::set<std::string,std::less<std::string>,std::allocator<std::string>> &)": невозможно преобразовать аргумент 1 из "std::string" в "std::set<std::string,std::less<std::string>,std::allocator<std::string>> &"
+C:\Users\79027\Desktop\ooplabs\lab2\filter\filter\Filter.h(12,6): message : см. объявление "FilterInput"
