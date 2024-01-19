@@ -1,0 +1,20 @@
+﻿  tests].cpp
+C:\Users\79027\Desktop\ooplabs\lab6_1_7\lab6_1_7\CHttpUrl.cpp(117,31): warning C4101: e: неиспользованная локальная переменная
+  tests].vcxproj -> C:\Users\79027\Desktop\ooplabs\lab6_1_7\x64\Debug\tests].exe
+  Parse sample URL from string complete
+  Parse sample URL from string with HTTP complete
+  Parse sample URL with 3 parameters complete
+  Parse sample URL with 4 parameters complete
+  Parse sample URL with 4 parameters, document without / complete
+  Parse URL with port '1' complete
+  Parse URL with port '65535' complete
+  Parse URL with empty document complete
+  Parse empty string complete
+  Parse URL with port 0 complete
+  Parse URL with port 65536 complete
+  Parse URL with port 75536 complete
+  Parse URL without domain complete
+  Parse URL with wrong protocol complete
+  ===============================================================================
+  All tests passed (35 assertions in 2 test cases)
+  

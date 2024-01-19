@@ -1,0 +1,19 @@
+﻿  CCircle.cpp
+C:\Users\79027\Desktop\ooplabs\shape\shape\shape\IShape.h(5,1): error C2011: IShape: переопределение типа "class"
+C:\Users\79027\Desktop\shape\IShape.h(4): message : см. объявление "IShape"
+C:\Users\79027\Desktop\shapeRemoteControl\ShapeRemoteControl.h(31,1): error C2011: ShapeRemoteControl: переопределение типа "class"
+C:\Users\79027\Desktop\ooplabs\shape\shape\shape\ShapeRemoteControl.h(8): message : см. объявление "ShapeRemoteControl"
+  CLineSegment.cpp
+C:\Users\79027\Desktop\ooplabs\shape\shape\shape\IShape.h(5,1): error C2011: IShape: переопределение типа "class"
+C:\Users\79027\Desktop\shape\IShape.h(4): message : см. объявление "IShape"
+C:\Users\79027\Desktop\shapeRemoteControl\ShapeRemoteControl.h(31,1): error C2011: ShapeRemoteControl: переопределение типа "class"
+C:\Users\79027\Desktop\ooplabs\shape\shape\shape\ShapeRemoteControl.h(8): message : см. объявление "ShapeRemoteControl"
+C:\Users\79027\Desktop\shape\CLineSegment.cpp(13,1): error C2027: использование неопределенного типа "IShape"
+C:\Users\79027\Desktop\shape\IShape.h(4): message : см. объявление "IShape"
+  CRectangle.cpp
+C:\Users\79027\Desktop\ooplabs\shape\shape\shape\IShape.h(5,1): error C2011: IShape: переопределение типа "class"
+C:\Users\79027\Desktop\shape\IShape.h(4): message : см. объявление "IShape"
+C:\Users\79027\Desktop\shapeRemoteControl\ShapeRemoteControl.h(31,1): error C2011: ShapeRemoteControl: переопределение типа "class"
+C:\Users\79027\Desktop\ooplabs\shape\shape\shape\ShapeRemoteControl.h(8): message : см. объявление "ShapeRemoteControl"
+  main.cpp
+  Создание кода...

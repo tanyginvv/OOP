@@ -1,0 +1,111 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.30.30709.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "commandLine": "\"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\c1xx.dll\" -ACf{1F7B090C-16DB-4822-966A-A93D26ED4681} -ACpmspft140.dll -Alint -D_PREFAST_ -D_AST_FE_ -Analyze -zm0x00007FF731DE0C80 -il C:\\Users\\79027\\AppData\\Local\\Temp\\_CL_8612b65fast -typedil -f ..\\..\\..\\..\\shape\\CTriangle.cpp -Ze -D_MSC_EXTENSIONS -Zp16 -pc \\:/ -D_MSC_VER=1930 -D_MSC_FULL_VER=193030709 -D_MSC_BUILD=0 -D_M_AMD64=100 -ZILP448 -D_M_X64=100 -D_WIN64 -D_WIN32 -GR -D_CPPRTTI -nologo -W 3 -diagnostics:column -D_GUARDOVERFLOW_CRT_ALLOCATORS=1 -Ot -DCODE_ANALYSIS -D_DEBUG -D_CONSOLE -D_UNICODE -DUNICODE -EHs -D_CPPUNWIND -EHc -D__MSVC_RUNTIME_CHECKS -RTCs -RTCu -MDd -D_DEBUG -D_MT -D_DLL -GS -D_M_FP_PRECISE -Zc:wchar_t -Zc:forScope -permissive- -Fox64\\Debug\\CTriangle.obj -Fdx64\\Debug\\vc143.pdb -external:W 3 -Gd -analyze:projectdirectory C:\\Users\\79027\\Desktop\\ooplabs\\shape\\shape\\shape -analyze:rulesetdirectory ;C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\\\Rule Sets; -analyze:ruleset C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\Team Tools\\Static Analysis Tools\\Rule Sets\\NativeRecommendedRules.ruleset -analyze:quiet -analyze:plugin C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\bin\\HostX64\\x64\\EspXEngine.dll -FC -errorreport:prompt -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\include -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.30.30705\\atlmfc\\include -external:I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -I C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Auxiliary\\VS\\include -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\ucrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\um -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\shared -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\winrt -external:I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -I C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.19041.0\\cppwinrt -external:I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um -I C:\\Program Files (x86)\\Windows Kits\\NETFXSDK\\4.8\\Include\\um",
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/ooplabs/shape/shape/shape/main.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "ea3d40a55802a3ceb5e284d8ec7544d8cde5988ebb8d5efb8c079ddb3624c3fd"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/ooplabs/shape/shape/shape/shaperemotecontrol.h"
+          },
+          "hashes": {
+            "sha-256": "f95593f36d9424df2b38f3839bd817e3dd23c13f713bf5897ffaf8b825b9190f"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/ooplabs/shape/shape/shape/ishape.h"
+          },
+          "hashes": {
+            "sha-256": "d62aa4862d96722672b5722113399a042bfcad7ca7d4d276a37bd397c1b31540"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/ctriangle.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "532f90b23c83faf3d52dc670ac6be53fdce3d80ddd122a0a18fdb91a47951b36"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/ctriangle.h"
+          },
+          "hashes": {
+            "sha-256": "fe650e1d259ab7739a62235d5607d352b667b46065c9b8ec206a950fa7a444b7"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/csolidshape.h"
+          },
+          "hashes": {
+            "sha-256": "95a7108df85cecdf5e5b0f0088e2dc141666a8c6a75e54c75b0e02c6a50e5c8e"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/isolidshape.h"
+          },
+          "hashes": {
+            "sha-256": "ae7cbbf45ba2fc43b0b8c20ada8e1703ac46c90afe8679d0d8f222ee749eb8f3"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/ishape.h"
+          },
+          "hashes": {
+            "sha-256": "d62aa4862d96722672b5722113399a042bfcad7ca7d4d276a37bd397c1b31540"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/cpoint.h"
+          },
+          "hashes": {
+            "sha-256": "0d7d3db0bc73ae2248c9b3ff0c9b8a78a5cf8bf97753f61155936f24246979ac"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/79027/desktop/shape/clinesegment.h"
+          },
+          "hashes": {
+            "sha-256": "07c8fc2a4e4d1513a2bf9cd811296e1fbfd43f8b553bce6bada28ad8a5c531be"
+          }
+        }
+      ]
+    }
+  ]
+}
